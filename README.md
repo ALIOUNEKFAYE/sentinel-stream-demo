@@ -1,2 +1,6 @@
-# sentinel-stream-demo
-Démo de pilotage agile pour le fil rouge
+# Sentinel Stream – démo
+
+Démo de pilotage agile pour le projet fil rouge.
+
+## Pilotage
+Tableau du projet : (lien à venir)
